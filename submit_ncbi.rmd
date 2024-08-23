@@ -1,11 +1,11 @@
 
-##FTP instructions
+##FTP instructions (https://submit.ncbi.nlm.nih.gov/subs/sra/#files_upload_ftp)
 
     Navigate to the source folder where the files for submission are.
     Establish an FTP connection using the credentials below:
     Address: ftp-private.ncbi.nlm.nih.gov
     Username: subftp
-    Password: iodrac9octOckEpp
+    Password: XXXX
     Please do not share these log-in credentials. Do not include these log-in credentials on a public page. These credentials are changed regularly, as per our security policies.
     Navigate to your account folder:
 
