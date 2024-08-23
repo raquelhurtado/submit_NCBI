@@ -23,6 +23,8 @@
     cd new_folder
     Copy your files into the target folder:
     put file_name
+    To copy all files
+    mput * 
 
     Note: If you upload your files to your account-level directory, you will not be able to use them in your submission. Files uploaded to the account level will be moved to a directory named moved_by_ncbi and subject to deletion after 30 days of inactivity. Therefore please transfer files to a directory inside your account-level directory.
 
